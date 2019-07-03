@@ -126,3 +126,5 @@ MonoBehaviour:
   speed: 10
   countText: {fileID: 0}
   winText: {fileID: 0}
+  timerText: {fileID: 0}
+  completeLevel: {fileID: 0}
